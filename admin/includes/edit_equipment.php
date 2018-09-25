@@ -213,7 +213,7 @@ if(isset($_POST['edit_equipment'])){
 
     <div class="form-group">
         <label for="equipment_note">Napomena</label>
-        <textarea class="form-control" name="equipment_note" id="" cols="30" rows="10"><?php echo $equipment_note; ?></textarea>
+        <textarea class="form-control" name="equipment_note" id="body" cols="30" rows="10"><?php echo $equipment_note; ?></textarea>
     </div>
 
     <div class="form-group">

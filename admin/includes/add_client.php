@@ -62,7 +62,7 @@ if(isset($_POST['create_client'])){
 
     <div class="form-group">
         <label for="client_note">Napomena</label>
-        <textarea class="form-control" name="client_note" id="" cols="30" rows="10"></textarea>
+        <textarea class="form-control" name="client_note" id="body" cols="30" rows="10"></textarea>
     </div>
 
     <div class="form-group">
