@@ -100,6 +100,9 @@
                 </ul>
             </li>
             <li>
+                <a href="services.php"><i class="fa fa-fw fa-wrench"></i> Servisi opreme</a>
+            </li>
+            <li>
                 <a href="javascript:;" data-toggle="collapse" data-target="#users"><i class="fa fa-fw fa-user"></i> Korisnici <i class="fa fa-fw fa-caret-down"></i></a>
                 <ul id="users" class="collapse">
                     <li>
